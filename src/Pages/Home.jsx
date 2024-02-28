@@ -1,6 +1,11 @@
+import Banner from "../components/Banner";
+import Container from "./Shared/Container";
+
 const Home = () => {
   return <div>
-    <h2>This is Home</h2>
+    <Container>
+        <Banner></Banner>
+    </Container>
   </div>;
 };
 
