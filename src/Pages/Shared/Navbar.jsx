@@ -34,7 +34,7 @@ const Navbar = () => {
                   </svg>
                 </label>
               </div>
-              <div className="flex-1 pr-2 mr-2 text-orange-500 text-lg font-extrabold">
+              <div className="flex-1 pr-2 mr-2 text-orange-500 text-sm md:text-lg font-extrabold">
                 <GrImage className="mr-1 w-7 h-7" />
                 CLICK MOTTO
               </div>

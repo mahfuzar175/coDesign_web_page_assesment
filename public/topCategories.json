@@ -7,26 +7,46 @@
     {
       "id": 2,
       "image": "https://i.ibb.co/Ntc9zN2/anna-pelzer-IGf-IGP5-ONV0-unsplash.jpg",
-      "name": "food"
+      "name": "Food"
     },
     {
       "id": 3,
       "image": "https://i.ibb.co/hyf8JMh/kobby-mendez-d0o-YF8hm4-GI-unsplash.jpg",
-      "name": "gravity"
+      "name": "Gravity"
     },
     {
       "id": 4,
       "image": "https://i.ibb.co/TM7mGN5/jimmy-dean-Yn0l7uw-Brpw-unsplash.jpg",
-      "name": "food"
+      "name": "Food"
     },
     {
       "id": 5,
       "image": "https://i.ibb.co/cQrc7Bk/ethan-robertson-SYx3-UCHZJlo-unsplash.jpg",
-      "name": "summer"
+      "name": "Summer"
     },
     {
       "id": 6,
       "image": "https://i.ibb.co/xMWBkCm/arlington-research-n-FLm-PAf9d-Vc-unsplash.jpg",
       "name": "Work"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/NKCrJ8f/henning-witzel-ukvgqriu-Ogo-unsplash.jpg",
+      "name": "City"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/hyf8JMh/kobby-mendez-d0o-YF8hm4-GI-unsplash.jpg",
+      "name": "Gravity"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/cQrc7Bk/ethan-robertson-SYx3-UCHZJlo-unsplash.jpg",
+      "name": "Summer"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/Ntc9zN2/anna-pelzer-IGf-IGP5-ONV0-unsplash.jpg",
+      "name": "Food"
     }
   ]
