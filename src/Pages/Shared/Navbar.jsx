@@ -1,5 +1,4 @@
 import { GrImage } from "react-icons/gr";
-import Container from "./Container";
 import { MdFacebook } from "react-icons/md";
 import { FaTwitter } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
@@ -9,7 +8,6 @@ import { FaLinkedin } from "react-icons/fa6";
 const Navbar = () => {
   return (
     <div>
-      <Container>
         <div className="drawer px-2">
           <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
           <div className="drawer-content flex flex-col">
@@ -97,7 +95,7 @@ const Navbar = () => {
             </div>
 
           </div>
-          <div className="drawer-side">
+          <div className="drawer-side absolute z-50">
             <label
               htmlFor="my-drawer-3"
               aria-label="close sidebar"
@@ -155,7 +153,6 @@ const Navbar = () => {
             </ul>
           </div>
         </div>
-      </Container>
     </div>
   );
 };
