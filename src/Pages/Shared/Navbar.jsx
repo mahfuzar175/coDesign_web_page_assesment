@@ -75,13 +75,13 @@ const Navbar = () => {
                           <a className="justify-between">Help</a>
                         </li>
                         <hr/>
-                    <li className="text-gray-300 hover:text-white">
+                    <li>
                       <div className="flex gap-4">
-                      <a><MdFacebook /></a>
-                      <a><FaTwitter /></a>
-                      <a><RiInstagramFill /></a>
-                      <a><FaGithub /></a>
-                      <a><FaLinkedin /></a>
+                      <a className="text-orange-500 hover:text-white"><MdFacebook /></a>
+                      <a className="text-orange-500 hover:text-white"><FaTwitter /></a>
+                      <a className="text-orange-500 hover:text-white"><RiInstagramFill /></a>
+                      <a className="text-orange-500 hover:text-white"><FaGithub /></a>
+                      <a className="text-orange-500 hover:text-white"><FaLinkedin /></a>
                       </div>
                     </li>
                       </ul>
@@ -137,13 +137,13 @@ const Navbar = () => {
                       <a className="justify-between">Help</a>
                     </li>
                     <hr/>
-                    <li className="text-gray-300 hover:text-white">
+                    <li>
                       <div className="flex gap-4">
-                      <a><MdFacebook /></a>
-                      <a><FaTwitter /></a>
-                      <a><RiInstagramFill /></a>
-                      <a><FaGithub /></a>
-                      <a><FaLinkedin /></a>
+                      <a className="text-orange-500 hover:text-white"><MdFacebook /></a>
+                      <a className="text-orange-500 hover:text-white"><FaTwitter /></a>
+                      <a className="text-orange-500 hover:text-white"><RiInstagramFill /></a>
+                      <a className="text-orange-500 hover:text-white"><FaGithub /></a>
+                      <a className="text-orange-500 hover:text-white"><FaLinkedin /></a>
                       </div>
                     </li>
                   </ul>
